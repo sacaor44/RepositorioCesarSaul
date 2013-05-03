@@ -12,11 +12,12 @@ public class Clase2 {
     private int x;
 
     public Clase2() {
+        x=0;
     }
 
     @Override
     public String toString() {
-        return super.toString();
+        return super.toString(); 
     }
     
     
